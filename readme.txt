@@ -1,6 +1,6 @@
 /**
  * Theme Name: Startup Landing WordPress theme
- * Theme URI: http://www.xpeedstudio.com
+ * Theme URI: http://bootstrapthemes.co/item/logic-free-multipurpose-business-wordpress-theme/
  * Description: A clean foundation for future WordPress themes.
  * Version: 1.0
  * Author: XpeedStudio
